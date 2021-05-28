@@ -1,0 +1,8 @@
+name = python 3.8.3
+dependencies:
+ - pip:
+  - pandas==1.2.0
+  - astropy==4.2
+  - watermark==2.1.0
+  - sys==3.8.3
+  - logging==0.5.1.2
