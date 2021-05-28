@@ -4,7 +4,8 @@ dependencies:
   - numpy
   - pip
   - pip:
-    - astropy
-    - watermark
+    - astropy==4.2
+    - watermark==2.1.0
     - pandas
     - matplotlib
+    - json==2.0.9
