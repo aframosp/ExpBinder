@@ -1,12 +1,10 @@
 name: example-environment
-channels:
-  - conda-forge
 dependencies:
-  - python
+  - python==3.8.3
   - numpy
   - pip
   - pip:
-    - nbgitpuller
-    - sphinx-gallery
+    - astropy
+    - watermark
     - pandas
     - matplotlib
