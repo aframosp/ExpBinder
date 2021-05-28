@@ -8,3 +8,4 @@ dependencies:
     - watermark==2.1.0
     - pandas
     - matplotlib
+    - ipython==7.16.1
