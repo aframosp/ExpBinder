@@ -1,8 +1,12 @@
-name = python 3.8.3
+name: example-environment
+channels:
+  - conda-forge
 dependencies:
- - pip:
-  - pandas==1.2.0
-  - astropy==4.2
-  - watermark==2.1.0
-  - sys==3.8.3
-  - logging==0.5.1.2
+  - python
+  - numpy
+  - pip
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
