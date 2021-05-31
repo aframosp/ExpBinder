@@ -5,6 +5,6 @@
 
 ## TOC
 1) BLABLABLA
-1.1)  BLAS
-  1.2) asda
+* 1.1)  BLAS
+  * 1.2) asda
    * 1.3 asdasd 
